@@ -5,4 +5,4 @@ It will calculate the number of words and character.
 There is contact me section which is connected with firebase realtime database.
 This app is fully responsive.
 
-This app is hosted it github, Link: https://anol18.github.io/Text-Converter/
+This app is hosted on github, Link: https://anol18.github.io/Text-Converter/
